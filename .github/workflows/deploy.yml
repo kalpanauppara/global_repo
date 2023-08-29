@@ -3,7 +3,7 @@ name: Deploy to Salesforce
 on:
   push:
     branches:
-      - main  # Change this to your desired branch
+      - Feature_branch  # Change this to your desired branch
 
 jobs:
   deploy:
